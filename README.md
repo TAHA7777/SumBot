@@ -8,6 +8,16 @@
 </h1>
 
 
+<p align="center">
+  <a href="https://discord.gg/WGEbtCuFbj">
+    <img src="https://discordapp.com/api/guilds/740565704553791528/widget.png?style=shield" alt="Discord Server">
+  </a>
+  <a href="https://github.com/Rapptz/discord.py/">
+     <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
+    <br>
+</p>
+
+
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, we are [SumBot team](https://discord.com/api/oauth2/authorize?client_id=738120633430573176&permissions=8&scope=bot)!
 
 We work as a discord developers Bot.
