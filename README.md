@@ -15,5 +15,6 @@ Is the user getting the best experience in using robots on the Discord app.
 [![invite link](https://img.shields.io/discord/740565704553791528)](https://www.linkedin.com/in/diogorodrigues02/)  [![discors.py](https://img.shields.io/pypi/v/discord.py)](https://twitter.com/_diogorodrigues)
 
 
-**[discord.py](https://www.diogorodrigues.dev/)**
+For help and questions -> [Join the bot support server](https://discord.gg/WGEbtCuFbj)
+For Invite SumBot in your server -> [Invite SumBot](https://discord.com/oauth2/authorize?client_id=738120633430573176&scope=bot&permissions=8)
 
