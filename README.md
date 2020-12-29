@@ -1,4 +1,4 @@
-![logo](http://i8.ae/LS3bM)
+
 <h1 align="center">
   <br>
   <a href="ot"https://github.com/SumBot/SumB><img src="http://i8.ae/LS3bM" alt="SumBot"></a>
