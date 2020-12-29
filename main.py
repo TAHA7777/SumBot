@@ -46,7 +46,7 @@ class SumBot(commands.Bot):
         self.client_id = config["client_id"]
         self.owner_id = config["owner_id"]
 
-#        self.remove    _command('help')
+#        self.remove_command('help')
 
         if config["token"] == "" or config["token"] == "token":
             self.token = os.environ['token']
