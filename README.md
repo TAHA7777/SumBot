@@ -6,13 +6,13 @@ We work as a discord developers Bot.
 
 Since 29/07/2020 we have started programming SumBot. ✨😍
 
-### What we are focusing on 👨‍💻
+### What we are focusing on?? 👨‍💻
 
 Is the user getting the best experience in using robots on the Discord app.
 
-### Find me elsewhere 🌎
+### Find me elsewhere?? 🌎
 
-[![invite link](https://img.shields.io/discord/740565704553791528)](https://www.linkedin.com/in/diogorodrigues02/)  [![discors.py](https://img.shields.io/pypi/v/discord.py)](https://twitter.com/_diogorodrigues)
+[![invite link](https://img.shields.io/discord/740565704553791528)](https://www.linkedin.com/in/diogorodrigues02/) | [![discors.py](https://img.shields.io/pypi/v/discord.py)](https://discordpy.readthedocs.io/en/latest/api.html) | ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/SumBot/SumBot)
 
 
 For help and questions -> [Join the bot support server](https://discord.gg/WGEbtCuFbj)
