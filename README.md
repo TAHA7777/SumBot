@@ -14,6 +14,7 @@
   </a>
   <a href="https://github.com/Rapptz/discord.py/">
      <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
+  </a>
 </p>
 <br>
 
